@@ -5,3 +5,5 @@ This data visualization tool was developed by Christian Rivera, Irshad Badarpura
 [Video Overview](https://drive.google.com/file/d/13-rR3PyS5wx6Y1w6jO-AtD_Gzq_-MYER/preview)
 
 [Live Demo](https://crivera32.github.io/rna-seq/src/)
+
+Contact: chris.rivera.3232 \[AT\] gmail.com
